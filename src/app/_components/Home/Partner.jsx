@@ -12,22 +12,22 @@ const Partner = () => {
       <div className="relative">
         <div className="flex flex-wrap justify-center items-center gap-8 md:gap-12">
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://seekvectorlogo.com/wp-content/uploads/2023/04/lightstream-vector-logo.png" className="w-full h-auto" alt="" />
           </div>
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://logowik.com/content/uploads/images/lending-club.jpg" className="w-full h-auto" alt="" />
           </div>
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSE7ETUymuR3hWGYfgLwxMg13QLFj2zma5SFBF5Hd_dcU6DpSeBV6quLOY7bCwuziMvPo&usqp=CAU" className="w-full h-auto" alt="" />
           </div>
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://lsvp.com/wp-content/uploads/2023/03/Green-Logo-Pathing.png" className="w-full h-auto" alt="" />
           </div>
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://cdn.worldvectorlogo.com/logos/chime-1.svg" className="w-full h-auto" alt="" />
           </div>
           <div className="w-24 md:w-44">
-            <img src="https://www.hexafin.com/wp-content/uploads/2022/11/bajaj-finserv-ltd-aundh-pune-finance-companies-1syihsq6xm-removebg-preview.png" className="w-full h-auto" alt="" />
+            <img src="https://logowik.com/content/uploads/images/cash-app8969.jpg" className="w-full h-auto" alt="" />
           </div>
         </div>
 
